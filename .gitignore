@@ -5,3 +5,5 @@ assignment_1/saved_models/
 .ipynb_checkpoints/
 datasets/
 */__pycache__/*
+assignment_2/data/
+assignment_2/wandb/
